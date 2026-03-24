@@ -8,7 +8,7 @@
 
 🚀 I am continuously learning and improving my skills to grow as a data professional and contribute effectively in a real-world business environment.
 
-# 🛠️ Skills <br>
+## 🛠️ Skills <br>
 📊 Excel <br>
 🗄️ SQL <br>
 🐍 Python (Pandas, NumPy) <br>
@@ -18,9 +18,10 @@
 📊 Sales Data Analysis Dashboard <br>
 📝 Customer Feedback Analysis <br>
 👩‍💼 HR Analytics Dashboard <br>
-# 🌱 Currently Learning <br>
+## 🌱 Currently Learning <br>
 * Advanced SQL <br>
 * Data Visualization Techniques<br>
 * Real-world Data Analysis Projects <br>
-#📫 Connect with Me <br>
-🔗 LinkedIn: 
+## 📫 Connect with Me <br>
+🔗 LinkedIn: in/karthick-n-a280a9324
+
