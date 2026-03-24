@@ -8,8 +8,8 @@
 
 🚀 I am continuously learning and improving my skills to grow as a data professional and contribute effectively in a real-world business environment.
 
-🛠️ Skills
-📊 Excel
+🛠️ Skills <br>
+📊 Excel <br>
 🗄️ SQL
 🐍 Python (Pandas, NumPy)
 📈 Power BI
