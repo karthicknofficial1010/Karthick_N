@@ -13,8 +13,9 @@
 🗄️ SQL <br>
 🐍 Python (Pandas, NumPy) <br>
 📈 Power BI <br>
-🧹 Data Cleaning & Visualization <br>
-📂 Projects <br>
+🧹 Data Cleaning & Visualization <br> <br>
+
+## 📂 Projects <br>
 📊 Sales Data Analysis Dashboard <br>
 📝 Customer Feedback Analysis <br>
 👩‍💼 HR Analytics Dashboard <br>
