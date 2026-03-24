@@ -8,19 +8,19 @@
 
 🚀 I am continuously learning and improving my skills to grow as a data professional and contribute effectively in a real-world business environment.
 
-🛠️ Skills <br>
+# 🛠️ Skills <br>
 📊 Excel <br>
-🗄️ SQL
-🐍 Python (Pandas, NumPy)
-📈 Power BI
-🧹 Data Cleaning & Visualization
-📂 Projects
-📊 Sales Data Analysis Dashboard
-📝 Customer Feedback Analysis
-👩‍💼 HR Analytics Dashboard
-🌱 Currently Learning
-Advanced SQL
-Data Visualization Techniques
-Real-world Data Analysis Projects
-📫 Connect with Me
-🔗 LinkedIn: (Add your link here)
+🗄️ SQL <br>
+🐍 Python (Pandas, NumPy) <br>
+📈 Power BI <br>
+🧹 Data Cleaning & Visualization <br>
+📂 Projects <br>
+📊 Sales Data Analysis Dashboard <br>
+📝 Customer Feedback Analysis <br>
+👩‍💼 HR Analytics Dashboard <br>
+# 🌱 Currently Learning <br>
+* Advanced SQL <br>
+* Data Visualization Techniques<br>
+* Real-world Data Analysis Projects <br>
+#📫 Connect with Me <br>
+🔗 LinkedIn: 
