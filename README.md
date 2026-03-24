@@ -14,7 +14,6 @@
 🐍 Python (Pandas, NumPy) <br>
 📈 Power BI <br>
 🧹 Data Cleaning & Visualization <br> <br>
-
 ## 📂 Projects <br>
 📊 Sales Data Analysis Dashboard <br>
 📝 Customer Feedback Analysis <br>
