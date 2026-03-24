@@ -23,5 +23,5 @@
 * Data Visualization Techniques<br>
 * Real-world Data Analysis Projects <br>
 ## 📫 Connect with Me <br>
-🔗 LinkedIn: in/karthick-n-a280a9324
+🔗 LinkedIn: https://linkedin.com/in/karthick-n-a280a9324
 
